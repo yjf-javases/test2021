@@ -9,4 +9,8 @@ public class Student {
         this.name = name;
         this.email = email;
     }
+
+    public static void main(String[] args) {
+        System.out.println("jdrfgjgf");
+    }
 }
